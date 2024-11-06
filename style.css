@@ -1,0 +1,52 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff; /* light blue background for an ocean feel */
+    color: #333;
+}
+
+header {
+    background-color: #0077b6; /* ocean blue */
+    color: white;
+    padding: 1.5em;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2em;
+}
+
+section {
+    padding: 1.5em;
+    max-width: 800px;
+    margin: auto;
+}
+
+h2 {
+    color: #0077b6; /* matching the header for consistency */
+}
+
+h3 {
+    color: #0096c7; /* a lighter blue to create variation */
+}
+
+p {
+    margin: 1em 0;
+}
+
+footer {
+    background-color: #0077b6;
+    color: white;
+    text-align: center;
+    padding: 1em;
+    margin-top: 1em;
+}
+
+footer p {
+    margin: 0;
+}
